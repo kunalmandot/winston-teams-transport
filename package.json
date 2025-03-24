@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Teams transport for winston 3+ that logs to a channel via webhook.",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kunalmandot/winston-teams-transport.git"
@@ -28,9 +26,6 @@
     "url": "https://github.com/kunalmandot/winston-teams-transport/issues"
   },
   "homepage": "https://github.com/kunalmandot/winston-teams-transport#readme",
-  "engines": {
-    "node": "~22.14"
-  },
   "devDependencies": {
     "eslint": "8.57.0",
     "eslint-config-airbnb-base": "15.0.0",
