@@ -1,8 +1,9 @@
 {
   "name": "winston-teams-transport",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Teams transport for winston 3+ that logs to a channel via webhook.",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
